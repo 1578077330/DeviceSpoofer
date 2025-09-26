@@ -6,7 +6,7 @@
     <dict>
         <key>Bundles</key>
         <array>
-            <string>com.apple.springboard</string>
+            <string>com.xingin.discover</string> <!-- 小红书 -->
         </array>
     </dict>
 </dict>
