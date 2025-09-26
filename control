@@ -1,0 +1,9 @@
+Package: com.yourname.devicespoofer
+Name: DeviceSpoofer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 一键新机插件，修改设备信息
+Maintainer: YourName
+Author: YourName
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
